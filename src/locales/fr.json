@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "home": {
+    "title": "Convertissez N'importe Quel Format de Fichier",
+    "subtitle": "Convertisseur de fichiers rapide, sécurisé et facile à utiliser",
+    "dropzone": {
+      "title": "Glissez-Déposez vos Fichiers Ici",
+      "subtitle": "ou cliquez pour sélectionner des fichiers",
+      "maxSize": "Taille maximale de fichier : 100MB"
+    },
+    "features": {
+      "title": "Fonctionnalités",
+      "secure": "Sécurisé et Privé",
+      "fast": "Conversion Rapide",
+      "quality": "Haute Qualité",
+      "formats": "Formats Multiples"
+    },
+    "supportedFormats": {
+      "title": "Formats Supportés",
+      "documents": "Documents",
+      "images": "Images",
+      "audio": "Audio",
+      "video": "Vidéo",
+      "archives": "Archives",
+      "ebooks": "Livres Numériques"
+    }
+  },
+  "converter": {
+    "selectFormat": "Sélectionner le Format de Sortie",
+    "converting": "Conversion en cours...",
+    "success": "Conversion Terminée !",
+    "error": "Échec de la Conversion",
+    "download": "Télécharger",
+    "newConversion": "Nouvelle Conversion",
+    "share": "Partager",
+    "quality": {
+      "title": "Paramètres de Qualité",
+      "high": "Haute",
+      "medium": "Moyenne",
+      "low": "Basse"
+    }
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "description": "Nous fournissons un service de conversion de fichiers sécurisé et efficace pour tous vos besoins.",
+    "features": "Notre service dispose d'une technologie de conversion de pointe avec prise en charge de plusieurs formats de fichiers."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer"
+  }
+}

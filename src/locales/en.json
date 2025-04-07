@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "home": {
+    "title": "Convert Any File Format",
+    "subtitle": "Fast, secure, and easy-to-use file converter",
+    "dropzone": {
+      "title": "Drag & Drop Files Here",
+      "subtitle": "or click to select files",
+      "maxSize": "Maximum file size: 100MB"
+    },
+    "features": {
+      "title": "Features",
+      "secure": "Secure & Private",
+      "fast": "Fast Conversion",
+      "quality": "High Quality",
+      "formats": "Multiple Formats"
+    },
+    "supportedFormats": {
+      "title": "Supported Formats",
+      "documents": "Documents",
+      "images": "Images",
+      "audio": "Audio",
+      "video": "Video",
+      "archives": "Archives",
+      "ebooks": "eBooks"
+    }
+  },
+  "converter": {
+    "selectFormat": "Select Output Format",
+    "converting": "Converting...",
+    "success": "Conversion Complete!",
+    "error": "Conversion Failed",
+    "download": "Download",
+    "newConversion": "New Conversion",
+    "share": "Share",
+    "quality": {
+      "title": "Quality Settings",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We provide a secure and efficient file conversion service for all your needs.",
+    "features": "Our service features state-of-the-art conversion technology with support for multiple file formats."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

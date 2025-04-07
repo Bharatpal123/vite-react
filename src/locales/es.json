@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "home": {
+    "title": "Convierte Cualquier Formato de Archivo",
+    "subtitle": "Conversor de archivos rápido, seguro y fácil de usar",
+    "dropzone": {
+      "title": "Arrastra y Suelta Archivos Aquí",
+      "subtitle": "o haz clic para seleccionar archivos",
+      "maxSize": "Tamaño máximo de archivo: 100MB"
+    },
+    "features": {
+      "title": "Características",
+      "secure": "Seguro y Privado",
+      "fast": "Conversión Rápida",
+      "quality": "Alta Calidad",
+      "formats": "Múltiples Formatos"
+    },
+    "supportedFormats": {
+      "title": "Formatos Soportados",
+      "documents": "Documentos",
+      "images": "Imágenes",
+      "audio": "Audio",
+      "video": "Video",
+      "archives": "Archivos",
+      "ebooks": "Libros Electrónicos"
+    }
+  },
+  "converter": {
+    "selectFormat": "Seleccionar Formato de Salida",
+    "converting": "Convirtiendo...",
+    "success": "¡Conversión Completa!",
+    "error": "Error en la Conversión",
+    "download": "Descargar",
+    "newConversion": "Nueva Conversión",
+    "share": "Compartir",
+    "quality": {
+      "title": "Ajustes de Calidad",
+      "high": "Alta",
+      "medium": "Media",
+      "low": "Baja"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description": "Proporcionamos un servicio seguro y eficiente de conversión de archivos para todas tus necesidades.",
+    "features": "Nuestro servicio cuenta con tecnología de conversión de última generación con soporte para múltiples formatos de archivo."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar"
+  }
+}
